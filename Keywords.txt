@@ -1,0 +1,22 @@
+##############################################
+# Coloring Map For （ ）           //此處做lib功能說明
+##############################################
+##############################################
+# Classes and Objects (KEYWORD1)
+##############################################
+BME33M251	KEYWORD1               //KEYWORD1（深橙色）—— 類
+BME33M251	KEYWORD1               //KEYWORD1（深橙色）—— 對象
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+begin		KEYWORD2            //KEYWORD2（淺橙色）—— 函數1
+readTemperature 		KEYWORD2            //KEYWORD2（淺橙色）—— 函數2
+readHumidity		KEYWORD2            //KEYWORD2（淺橙色）—— 函數2
+getDviceInfo		KEYWORD2            //KEYWORD2（淺橙色）—— 函數2
+##############################################
+# Constants (LITERAL1)
+##############################################
+READ_OK		LITERAL1              // LITERAL1 （ 藍色 ）—— const常量1
+READ_ERROR	LITERAL1              // LITERAL1 （ 藍色 ）—— const常量2
+NO_ACK		LITERAL1           // LITERAL1 （ 藍色 ）—— 宏常量
+BME33M251_ADDR	LITERAL1           // LITERAL1 （ 藍色 ）—— 宏常量
